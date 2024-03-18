@@ -14,7 +14,7 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-one text-xl sm:text-3xl text-white font-semibold  py-2">
-            SpongeSol isn't your average meme coin - he's the next viral meme! 
+            SpongSol isn't your average meme coin - he's the next viral meme! 
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-two text-white  font-medium">
               1. SpongSol Game: Dive into underwater gaming fun with SpongSol and friends!
