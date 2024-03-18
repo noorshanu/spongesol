@@ -30,7 +30,7 @@ function RoadMap() {
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7">•  Build community foundation.</p>
             <p  className=" text-lg font-popins font-normal lh-1_7">• Do initial market research.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">•  Launch SpongeSol.</p>
+            <p  className=" text-lg font-popins font-normal lh-1_7">•  Launch SpongSol.</p>
           
           
           </div>
@@ -54,7 +54,7 @@ function RoadMap() {
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7">•  Open Pet Store.</p>
             <p  className=" text-lg font-popins font-normal lh-1_7">• List on Tier 1 Exchange.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Launch SpongeSol Game.</p>
+            <p  className=" text-lg font-popins font-normal lh-1_7">• Launch SpongSol Game.</p>
           
 
           </div>
