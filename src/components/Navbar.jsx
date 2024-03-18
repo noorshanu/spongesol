@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-3xl font-bold font-groot-one text-[#000]">
-           SpongeSol
+           SpongSol
           </p>
         </div>
 
