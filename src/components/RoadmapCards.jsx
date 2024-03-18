@@ -24,33 +24,33 @@ function RoadmapCards() {
       >
         <SwiperSlide>
           <img
-            src="images/img1.webp"
+            src="images/hero2.png"
             alt=""
-            className=" rounded-xl border-black border"
+            className=" rounded-xl border-black border h-[350px] mx-auto"
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <img
-            src="images/img3.webp"
+            src="images/hero3.png"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <img
-            src="images/img4.webp"
+            src="images/hero.png"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <img
-            src="images/img5.webp"
+            src="images/hero2.png"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
           />
         </SwiperSlide>
 

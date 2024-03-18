@@ -11,13 +11,13 @@ function Navbar() {
       <div className="container-wrapper flex items-center justify-between relative">
         <div className=" flex items-center gap-2">
           <img
-            src="/images/hero2.png"
+            src="/images/hero3.png"
             className="max-w-[7rem] w-full rounded-full"
             alt=""
           />
 
           <p className=" text-3xl font-bold font-groot-one text-[#ffffff] sm:text-[#000]">
-            DinoDoge
+           SpongeSol
           </p>
         </div>
 

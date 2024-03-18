@@ -2,35 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "ninja";
-  src: url("/fonts/ninja.ttf");
-}
 
-.font-ninja{
-  font-family: "ninja";
-}
 
 @font-face {
-  font-family: "sushi-one";
-  src: url("/fonts/Marker Felt.ttf");
+  font-family: "groot-two";
+  src: url("/fonts/groot-one.ttf");
 }
 
-.font-sushi-one{
-  font-family: "sushi-one";
-}
-@font-face {
-  font-family: "sushi-two";
-  src: url("/fonts/sushi-cat-two.ttf");
+.font-groot-two{
+  font-family: "groot-two";
 }
 
-.font-sushi-two{
-  font-family: "sushi-two";
-}
+
+
+
 
 @font-face {
   font-family: "groot-one";
-  src: url("/fonts/groot-one.ttf");
+  src: url("/fonts/sponge.ttf");
 }
 
 .font-groot-one{
@@ -60,12 +49,17 @@
 
 
 .bg-main{
-  background-image: url(/images/backbg.jpg);
+  background-image: url(/images/backgb.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   /* background-position: center ; */
 }
-
+.bg-tweet{
+  background: url(/images/tweet-bg.svg) no-repeat 0 0 / 100%;
+  padding: 12px 0;
+  min-height: 400px;
+}
 .big-info__inner {
   background:  #3B062F;
   background-size: cover, cover;
