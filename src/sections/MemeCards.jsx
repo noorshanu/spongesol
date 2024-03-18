@@ -25,11 +25,11 @@ function MemeCards() {
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two text-white font-medium">
-              3. Staking: Earn rewards effortlessly! Support SpongeSol and hodl for rewards.
+              3. Staking: Multiply your rewards like bubbles in the ocean!
 
             </h1>
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two text-white font-medium">
-              3. Meme Creation: Laugh non-stop with our hilarious memes! Join the fun in the solana jungle!
+              3. Non-stop Meme Creation: Spread joy and laughter with our community's hilarious memes.
 
             </h1>
           </div>
