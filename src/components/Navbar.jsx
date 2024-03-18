@@ -12,7 +12,7 @@ function Navbar() {
         <div className=" flex items-center gap-2">
           <img
             src="/images/hero3.png"
-            className="max-w-[7rem] w-full rounded-full"
+            className="max-w-[7rem] w-full "
             alt=""
           />
 
