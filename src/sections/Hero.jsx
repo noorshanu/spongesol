@@ -13,12 +13,12 @@ function Hero() {
 
             <div className=" max-w-2xl bg-[#42e2e7c5] py-8 px-4 rounded-3xl border-2 border-[#ffc93b]">
               <h2 className=" text-lg text-black font-semibold">
-                Meet Bongo Cat: the next meme sensation in the wild world of
+                Meet SpongeSol: the next meme sensation in the wild world of
                 crypto. Think you've seen it all with Shiba, Baby Doge, and our
                 dear froggy friend Pepe? Think again. Here comes a feline with
                 rhythm, ambition, and a dream to join the meme coin hall of
                 fame. Why should dogs and frogs have all the fun? Introducing
-                Bongo Cat ($BONGO)
+                SpongeSol 
               </h2>
               <div className=" py-2">
                 <a
