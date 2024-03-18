@@ -33,7 +33,7 @@ function Hero() {
 
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
                 <a
-                  href="https://t.me/SpongeSolso"
+                  href="https://t.me/spongesoll"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#473314]  font-bold border-[#ffc93b] border-2"
                 >
