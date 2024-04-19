@@ -17,12 +17,12 @@ function Hero() {
               </h2>
               <div className=" py-2">
                 <a
-                  href="#"
+                  href="https://solscan.io/token/Cm4rGCokuRG6XHnoUizpRnJ74XkbFhN42VWPyUYAxDX4"
                   target="_blank"
                   className="my-2 font-groot-two flex justify-start text-xs  text-black  sm:text-xl font-bold "
                 >
                   {" "}
-                  Contract : 4R9VUGpg7jCcVgfdgfgfdgfdgfgFwXF
+                  Contract : Cm4rGCokuRG6XHnoUizpRnJ74XkbFhN42VWPyUYAxDX4
                 </a>
               </div>
 
@@ -36,7 +36,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/B4YaFkDVm43Po6utywvw9GRZf5aW5E1pqn4c3jmR5XGe?t=1713526714082"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#473314]  font-bold  border-[#ffc93b] border-2"
                 >
