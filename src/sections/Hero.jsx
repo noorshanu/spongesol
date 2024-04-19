@@ -3,7 +3,8 @@ function Hero() {
     <section className=" pt-8  pb-[4rem] ">
       <div className="container-wrapper">
         <h1 className=" font-groot-one text-2xl text-center sm:text-5xl font-semibold my-4 max-w-full sm:max-w-5xl mx-auto text-[#000]">
-        SpongeWIF: Making Waves in the Solana Sea with Memes, fun, and Optimism!
+          SpongeWIF: Making Waves in the Solana Sea with Memes, fun, and
+          Optimism!
         </h1>
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
@@ -13,7 +14,10 @@ function Hero() {
 
             <div className=" max-w-2xl bg-[#42e2e7c5] py-8 px-4 rounded-3xl border-2 border-[#ffc93b]">
               <h2 className=" text-lg text-black font-semibold">
-              Welcome to SpongeWIF, the most bubbly and optimistic meme coin on Solana! Just like SpongeBob, we're all about fun, friendship, and making waves in the crypto world. Join us in Bikini Bottom for meme creation, staking, and endless water adventures!
+                Welcome to SpongeWIF, the most bubbly and optimistic meme coin
+                on Solana! Just like SpongeBob, we're all about fun, friendship,
+                and making waves in the crypto world. Join us in Bikini Bottom
+                for meme creation, staking, and endless water adventures!
               </h2>
               <div className=" py-2">
                 <a
