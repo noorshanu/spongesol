@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-3xl font-bold font-groot-one text-[#000]">
-           SpongWif
+           SpongHat
           </p>
         </div>
 
@@ -62,10 +62,10 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="http://www.twitter.com/SpongeWIF1" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/sponge_hat1" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/spongewif" className=" text-4xl">
+            <a target="_blank" href="https://t.me/sponghat" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>

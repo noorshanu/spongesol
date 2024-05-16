@@ -19,7 +19,7 @@ const Intro = () => {
           <div className=" w-full sm:w-[500px] bg-tweet ">
             {/* <RoadmapCards /> */}
             <h2 className=" mt-4 text-center text-2xl text-black font-semibold font-groot-one ">
-            world of SpongeWif
+            world of SpongeHat
             </h2>
             <img
               src="images/hero.png"
@@ -27,28 +27,28 @@ const Intro = () => {
               className=" rounded-3xl shadow-lg h-[400px] mx-auto  "
             />
              <h2 className=" mt-4 text-center text-2xl text-black font-semibold font-groot-one pb-8">
-             In the meme jungle, SpongeWif
+             In the meme jungle, SpongeHat
             </h2>
 
            
           </div>
           <div className=" max-w-xl">
             <p className="font-semibold font-groot-one text-xl sm:text-3xl text-black  py-2">
-              Welcome to the wild world of SpongeWif!
+              Welcome to the wild world of SpongeHat!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-              In the meme jungle, SpongeWif reigns supreme with his adorable
-              charm and endless memes! With his trusty sidekick, SpongeWif
+              In the meme jungle, SpongeHat reigns supreme with his adorable
+              charm and endless memes! With his trusty sidekick, SpongeHat
               spreads joy and laughter wherever he goes, making Solana brighter
               with every wag of his tail.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-            SpongeWif isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, SpongeWif offers more than just memes. 
+            SpongeHat isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, SpongeHat offers more than just memes. 
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-            From his hilarious antics to his groundbreaking SpongeWif Game and pet store, SpongeWif brings excitement and adventure to the crypto world! 
+            From his hilarious antics to his groundbreaking SpongeHat Game and pet store, SpongeHat brings excitement and adventure to the crypto world! 
             </h1>
           </div>
         </div>

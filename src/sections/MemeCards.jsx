@@ -14,14 +14,14 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-one text-xl sm:text-3xl text-white font-semibold  py-2">
-           SpongeWif isn't your average meme coin - he's the next viral meme! 
+           SpongeHat isn't your average meme coin - he's the next viral meme! 
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-two text-white  font-medium">
-              1.SpongeWif Game: Dive into underwater gaming fun withSpongeWif and friends!
+              1.SpongeHat Game: Dive into underwater gaming fun with SpongeHat and friends!
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two  text-white font-medium">
-              2.SpongeWif NFTs: Collect rare and adorable NFTs featuring your favorite characters.
+              2.SpongeHat NFTs: Collect rare and adorable NFTs featuring your favorite characters.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two text-white font-medium">
